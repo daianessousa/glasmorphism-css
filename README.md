@@ -1,5 +1,6 @@
 # glasmorphism-css
 
 ## 🔧 Ferramentas utilizadas: Figma e Dribbble
-#### ♦️ Projeto disponivel em:  [UPLabs]( https://www.uplabs.com/posts/glassmorphism-header-concept)
+### ♦️ Visualizar página:  [Glasmorphism-css](https://daianessousa.github.io/glasmorphism-css/)
+##### ♦️ Design by:  [UPLabs]( https://www.uplabs.com/posts/glassmorphism-header-concept)
 
