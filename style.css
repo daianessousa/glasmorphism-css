@@ -95,6 +95,9 @@ body {
   background: rgba(255, 255, 255, 0.15);
   backdrop-filter: blur(5px);
   padding-left: 30px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
 }
 
 .info_submit input::placeholder {
@@ -120,6 +123,10 @@ body {
   position: absolute;
   top: 12px;
   right: -20px;
+}
+.info_submit button:hover {
+  background-color: violet;
+  transition: 0.6s;
 }
 
 .info_card .card {
